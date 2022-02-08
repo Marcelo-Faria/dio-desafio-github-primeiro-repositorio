@@ -1,0 +1,2 @@
+Donwload GIT - https://git-scm.com/
+O git bash é um ferrementa de extenção do GIT 
